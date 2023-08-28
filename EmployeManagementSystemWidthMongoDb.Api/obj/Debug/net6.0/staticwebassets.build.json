@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xRgB6huyKu3kgzTDqpbNFaQnhKKBnKNkPaFMY8+PZJ4=",
+  "Source": "EmployeManagementSystemWidthMongoDb.Api",
+  "BasePath": "_content/EmployeManagementSystemWidthMongoDb.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
