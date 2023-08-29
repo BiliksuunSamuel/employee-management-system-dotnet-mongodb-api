@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  employemanagementsystemwidthmongodb.api:
+    image: ${DOCKER_REGISTRY-}employemanagementsystemwidthmongodbapi
+    build:
+      context: .
+      dockerfile: EmployeManagementSystemWidthMongoDb.Api/Dockerfile

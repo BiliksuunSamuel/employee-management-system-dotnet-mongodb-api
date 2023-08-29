@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WYke74rStu2sY4FnGj49QxP+x6GKKONL10bpZOvAsO3YHaOzo63nmDHwG+sjP/mt8Ykwpu/oy+RoHT99AgMmmg==",
+  "dgSpecHash": "bIgJCIJC6EKT8jxifD3EmKT6g3q7Gt1WKA28qta5hwIqeytLGz5mWeQ3aBlvyQaioe37JQEsH7HFV3LGlq4rlw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bhills\\Desktop\\personal_project\\EMS_MongoDb_DotnetCore\\EmployeManagementSystemWidthMongoDb\\EmployeManagementSystemWidthMongoDb.Api\\EmployeManagementSystemWidthMongoDb.Api.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\Bhills\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Bhills\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Bhills\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Bhills\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\Bhills\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Bhills\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
     "C:\\Users\\Bhills\\.nuget\\packages\\mongodb.driver\\2.21.0\\mongodb.driver.2.21.0.nupkg.sha512",

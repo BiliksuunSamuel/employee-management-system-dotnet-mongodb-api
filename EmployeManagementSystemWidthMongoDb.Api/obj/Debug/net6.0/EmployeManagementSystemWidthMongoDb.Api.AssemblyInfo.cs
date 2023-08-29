@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("516e69b6-dee4-498f-939a-ef9e6a63038a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeManagementSystemWidthMongoDb.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
